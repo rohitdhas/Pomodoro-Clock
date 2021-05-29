@@ -1,2 +1,3 @@
 # Pomodoro-Clock
-Created with CodeSandbox
+Deployed using Netlify on URL: 
+https://pomodoroclockbyrohit.netlify.app/
